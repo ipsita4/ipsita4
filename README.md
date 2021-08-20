@@ -100,4 +100,4 @@ Connect with me on :
 
 Nice to meet you all! 
 
-![tenor (1)](https://user-images.githubusercontent.com/59875404/130226534-1c2472c3-992f-4da9-9648-ac0ad125f1ee.gif)
+
