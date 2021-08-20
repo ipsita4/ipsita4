@@ -97,6 +97,9 @@ Connect with me on :
 [6]: https://www.hackerrank.com/i_bhatya
 
 
+![tenor (1)](https://user-images.githubusercontent.com/59875404/130226534-1c2472c3-992f-4da9-9648-ac0ad125f1ee.gif)
+
+
 
 Nice to meet you all! 
 
