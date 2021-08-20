@@ -1,4 +1,4 @@
-# Aloha 👋
+# Hello 👋
 
 ![](https://komarev.com/ghpvc/?username=ipsita4&label=PROFILE+VISITORS&color=blue&style=flat-square)
 ## I'm Ipsita, a technology explorer out here.
