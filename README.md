@@ -61,7 +61,7 @@ Technologies I'm familiar with :
 [23.1]: https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
 [24.1]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ErzaTitania-2001)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=ErzaTitania-2001)-->
 
 
 Connect with me on : 
