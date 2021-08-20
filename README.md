@@ -1,19 +1,19 @@
 # Aloha 👋
 
 ![](https://komarev.com/ghpvc/?username=ErzaTitania-2001&label=PROFILE+VISITORS&color=blue&style=flat-square)
-## I'm Ahana, a lucky vGHC'21 Scholar.
+## I'm Ipsita, a technology explorer out here.
 
-## Just another robotics/tech nerd here!
+## Just another software nerd here!
 
-- 🔭 I’m currently working on my B2B, C2B model and a community machine learning project
-- 🌱 I’m currently learning: Google Cloud, Machine Learning and related Statistics 
-- :computer: Currently serving as Student Mentor@Google Cloud, Core Committee@Institution's technical club.
+- 🔭 I’m currently working on my community machine learning project
+- 🌱 I’m currently learning: Google Cloud related technologies
+- :computer: Currently a Computer Science Engineering Undergrad who's exploring different facets of technology.
 - 🤔 I’m looking for help in Machine Learning, Statistics!
-- 💬 Ask me about Arduino, Rbpi, robotics and OOP 
-- 📫 Have look at my [portfolio](https://ahana-pal-portfolio.netlify.app) and you can leave me a message at [here](https://email-feedback.netlify.app/) !
+- 💬 Ask me about Python, Data Structures. 
+- 📫 Have look at my and you can leave me a message at [here](https://forms.gle/3sRyXcQ5XmRaji8WA) !
 - 😄 Pronouns: Her
 
-- ⚡ Fun fact: You might catch me ogling at dinosaurs or playing Valorant in my free time!
+- ⚡ Fun fact: You might catch me movie binging in my free time!
 
 Technologies I'm familiar with : 
 
@@ -85,21 +85,22 @@ Connect with me on :
 [3.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [4.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [5.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-[6.1]: https://img.shields.io/badge/Qwiklabs-Google--Cloud-red
+
 [7.1]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://www.linkedin.com/in/ahana-pal-5852771b2/
+[1]: https://www.linkedin.com/in/ipsita-bhattacharya-98378b191/
 [2]: https://discord.com/users/625172911212462091/
-[3]: https://www.instagram.com/ahoyahana/
-[4]: https://twitter.com/Toothpi56823329
-[5]: https://www.facebook.com/ahana.pal.710
-[6]: https://www.qwiklabs.com/public_profiles/427132e0-e5f7-47b7-ae31-9d0a9071e5e7
-[7]: https://www.hackerrank.com/lohoripal2001 
+[3]: https://www.instagram.com/ipsita_sweta/
+[4]: https://twitter.com/IpsitaBhattac10
+
+[5]: https://www.facebook.com/ipsita.bhattacharya.106/
+
+[7]: https://www.hackerrank.com/i_bhatya
 
 
 
 Nice to meet you all! 
 
-![tenor (1)](https://user-images.githubusercontent.com/59911272/121473014-a6e75300-c9df-11eb-8007-2f3d216f47af.gif)
+![tenor (1)](https://user-images.githubusercontent.com/59875404/130226534-1c2472c3-992f-4da9-9648-ac0ad125f1ee.gif)
