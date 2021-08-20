@@ -1,6 +1,6 @@
 # Aloha 👋
 
-![](https://komarev.com/ghpvc/?username=ErzaTitania-2001&label=PROFILE+VISITORS&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ipsita4&label=PROFILE+VISITORS&color=blue&style=flat-square)
 ## I'm Ipsita, a technology explorer out here.
 
 ## Just another software nerd here!
@@ -85,7 +85,6 @@ Connect with me on :
 [3.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [4.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [5.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-
 [6.1]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
@@ -94,9 +93,7 @@ Connect with me on :
 [2]: https://discord.com/users/625172911212462091/
 [3]: https://www.instagram.com/ipsita_sweta/
 [4]: https://twitter.com/IpsitaBhattac10
-
 [5]: https://www.facebook.com/ipsita.bhattacharya.106/
-
 [6]: https://www.hackerrank.com/i_bhatya
 
 
