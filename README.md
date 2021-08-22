@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello!👋
 
 ![](https://komarev.com/ghpvc/?username=ipsita4&label=PROFILE+VISITORS&color=blue&style=flat-square)
 ## I'm Ipsita, a technology explorer out here.
@@ -35,7 +35,7 @@ Technologies I'm familiar with :
 ![alt text][21.1]
 ![alt text][22.1]
 ![alt text][23.1]
-![alt text][24.1]
+
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -47,18 +47,15 @@ Technologies I'm familiar with :
 [10.1]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [11.1]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [12.1]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[13.1]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[14.1]: https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+
 [15.1]: https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white
 [16.1]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-[17.1]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+
 [18.1]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [19.1]: https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white
 [20.1]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[21.1]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
 
 [22.1]: https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-[23.1]: https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
 [24.1]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=ErzaTitania-2001)-->
@@ -95,9 +92,6 @@ Connect with me on :
 [4]: https://twitter.com/IpsitaBhattac10
 [5]: https://www.facebook.com/ipsita.bhattacharya.106/
 [6]: https://www.hackerrank.com/i_bhatya
-
-
-![tenor (1)](https://user-images.githubusercontent.com/59875404/130226534-1c2472c3-992f-4da9-9648-ac0ad125f1ee.gif)
 
 
 
