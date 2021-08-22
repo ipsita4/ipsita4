@@ -1,6 +1,4 @@
-# Hello!👋
-
-![](https://komarev.com/ghpvc/?username=ipsita4&label=PROFILE+VISITORS&color=blue&style=flat-square)
+# Hello! 
 ## I'm Ipsita, a technology explorer out here.
 
 ## Just another software nerd here!
@@ -44,10 +42,9 @@ Technologies I'm familiar with :
 [12.1]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [13.1]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [14.1]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[15.1]: https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white
-[16.1]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[17.1]: https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-[18.1]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
+[15.1]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[16.1]: https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+[17.1]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=ErzaTitania-2001)-->
 
