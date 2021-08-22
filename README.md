@@ -56,7 +56,7 @@ Technologies I'm familiar with :
 [20.1]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
 
 [22.1]: https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-[24.1]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
+[23.1]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=ErzaTitania-2001)-->
 
