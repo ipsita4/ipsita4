@@ -76,7 +76,7 @@ Connect with me on :
 
 [1]: https://www.linkedin.com/in/ipsita-bhattacharya-98378b191/
 [2]: https://discord.com/users/625172911212462091/
-[3]: https://www.instagram.com/ipsita_sweta/
+[3]: https://www.instagram.com/ipsitab04/?hl=en
 [4]: https://twitter.com/IpsitaBhattac10
 [5]: https://www.facebook.com/ipsita.bhattacharya.106/
 [6]: https://www.hackerrank.com/i_bhatya
