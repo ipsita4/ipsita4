@@ -1,6 +1,8 @@
 # Hello! 
 ## I'm Ipsita, a technology explorer out here.
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ## Just another software nerd here!
 
 - 🔭 I’m currently working on my community machine learning project
