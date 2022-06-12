@@ -1,7 +1,10 @@
 # Hello! 
-## I'm Ipsita, a technology explorer out here.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+
+## I'm Ipsita, a technology explorer out here.
+
+
 
 ## Just another software nerd here!
 
