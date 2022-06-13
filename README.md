@@ -1,7 +1,5 @@
 # Hello! 
 
-![](https://komarev.com/ghpvc/?username=ipsita4)
-
 
 
 ## I'm Ipsita, a technology explorer out here.
