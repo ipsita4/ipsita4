@@ -2,10 +2,6 @@
 
 
 
-## I'm Ipsita, a technology explorer out here.
-
-
-
 ## Just another software nerd here!
 
 - 🔭 I’m currently working on my community machine learning project
