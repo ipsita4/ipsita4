@@ -1,6 +1,6 @@
 # Hello! 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 ## I'm Ipsita, a technology explorer out here.
 
